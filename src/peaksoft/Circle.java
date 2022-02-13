@@ -1,6 +1,6 @@
 package peaksoft;
 public class Circle {
-    public static final double pi = 3.141592;
+    public static final double pi = 3.1415926535;
     private  double radius;
     public Circle() {}
     public Circle(double radius) {
